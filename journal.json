@@ -1,0 +1,83 @@
+{
+    "tvc19": {
+        "title":"3D Color Homography Model for Photo-Realistic Color Transfer Re-Coding",
+        "year":2019,
+        "venue":"The Visual Computer (TVC)",
+        "authors":[ "Han Gong", "Graham Finlayson", "Robert Fisher", "Fufu Fang" ],
+        "icon":"tvcj_3dH.jpg",
+        "res": {
+            "PDF":"https://homepages.inf.ed.ac.uk/rbf/PAPERS/TVCJgong17.pdf",
+            "Code":"https://github.com/hangong/h3d-cf/",
+            "Data":"https://github.com/hangong/h3d-cf/",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+
+    "pami19": {
+        "title":"Color Homography: theory and applications",
+        "year":2019,
+        "venue":"IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+        "authors":[ "Graham Finlayson", "Han Gong (co-first author)", "Robert Fisher" ],
+        "icon":"ch.jpg",
+        "res": {
+            "PDF":"http://homepages.inf.ed.ac.uk/rbf/PAPERS/cshgong17.pdf",
+            "Code":"https://github.com/hangong/ch/",
+            "Data":"",
+            "Vid":"",
+            "Sup":"projects/color_homography/supl_review.pdf",
+            "Web":""
+        },
+        "note":""
+    },
+   "jist18": {
+        "title":"Rank-Based Radiometirc Calibration",
+        "year":2018,
+        "venue":"Journal of Imaging Science and Technology (JIST)",
+        "authors":[ "Han Gong", "Graham Finlayson", "Maryam Darrodi", "Robert Fisher"],
+        "icon":"bmvc2017.jpg",
+        "res": {
+            "PDF":"https://people.uea.ac.uk/en/publications/rankbased-radiometric-calibration(fa398b01-ab87-44c2-8656-be7fc3cd1eb9).html",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "ivc17": {
+        "title":"User-Assisted Image Shadow Removal",
+        "year":2017,
+        "venue":"Image and Vision Computing (IVC)",
+        "authors":[ "Han Gong", "Darren Cosker" ],
+        "icon":"ivc17.jpg",
+        "res": {
+            "PDF":"http://dx.doi.org/10.1016/j.imavis.2017.04.001",
+            "Code":"https://github.com/hangong/deshadow-curve_solution",
+            "Data":"https://github.com/hangong/deshadow-curve_solution",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "josa2016": {
+        "title":"Interactive Removal and Ground Truth for Difficult Shadow Scenes",
+        "year":2016,
+        "venue":"Journal of the Optical Society of America (JOSA) A",
+        "authors":[ "Han Gong", "Darren Cosker" ],
+        "icon":"bmvc14.jpg",
+        "res": {
+            "PDF":"http://arxiv.org/abs/1608.00762",
+            "Code":"https://github.com/hangong/deshadow",
+            "Data":"http://cs.bath.ac.uk/hg299/shadow_eval/",
+            "Vid":"",
+            "Sup":"",
+            "Web":"http://cs.bath.ac.uk/hg299/projects/shadowremoval_bmvc/"
+        },
+        "note":""
+    }
+}

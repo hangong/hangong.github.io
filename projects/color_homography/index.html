@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang='en'>
+
+<head>
+<title>Color Homography: theory and applications</title>
+
+<!-- Required meta tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Computer Vision researcher homepage for Han Gong"/>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js"></script>
+
+<!-- clipboard -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.7.1/clipboard.min.js"></script>
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" href="img/css/style.css" type="text/css" />-->
+
+<style>
+.author{
+  width: 10%;
+  display: inline;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.btn-sq {
+  width: 100px !important;
+  height: 100px !important;
+  font-size: 12px;
+}
+
+</style>
+
+</head>
+
+<body>
+  <div class="container py-5">
+      <div id="site-head" class="col-md-12 text-center">
+        <h1>Color Homography: theory and applications</h1>
+        <p class="authors">
+          <div class="author"><a href='https://www.uea.ac.uk/computing/people/profile/g-finlayson' title='Fabio Viola'>Graham Finlayson<sup>1, <i class="fa fa-user-circle" aria-hidden="true"></i></sup></a>,</div>
+          <div class="author"><a href='http://www2.cmp.uea.ac.uk/~ybb15eau/'>Han Gong<sup>1, <i class="fa fa-user-circle" aria-hidden="true"></i></sup></a>,</div> and
+          <div class="author"><a href='http://homepages.inf.ed.ac.uk/rbf/'>Robert Fisher<sup>2</sup></a></div>
+        </p>
+        <div class="row justify-content-sm-center text-center">
+        <div class="col-sm-3">University of East Anglia <sup>1</sup></div>
+        <div class="col-sm-3">University of Edinburgh <sup>2</sup></div>
+        <div class="col-sm-3">Co-first authors <sup><i class="fa fa-user-circle" aria-hidden="true"></i></sup></div>
+        </div>
+      </div>
+
+     <div class="row justify-content-sm-center my-4">
+        <div id="abstract" class="col-sm-11">
+        Images of co-planar points in 3-dimensional space taken from different camera positions are a homography apart. Homographies are at the heart of geometric methods in computer vision and are used in geometric camera calibration, 3D reconstruction, stereo vision and image mosaicking among other tasks. In this paper we show the surprising result that homographies are the apposite tool for relating image colors of the same scene when the capture conditions &#8210; illumination color, shading and device &#8210; change. Three applications of color homographies are investigated: 1) color calibration; 2) color indexing by chromaticity distribution sturcture matching; 3) natural image color transfer recoding as a color homography mapping.
+        </div>
+     </div>
+    
+<div class="row justify-content-sm-center">
+<div class="col-sm-3">
+  <div class="list-group" id="list-tab" role="tablist">
+    <a class="list-group-item list-group-item-action active" id="list-doc-list" data-toggle="list" href="#list-doc" role="tab" aria-controls="doc">Documents</a>
+    <a class="list-group-item list-group-item-action" id="list-cc-list" data-toggle="list" href="#list-cc" role="tab" aria-controls="cc">Color Correction</a>
+    <a class="list-group-item list-group-item-action" id="list-ci-list" data-toggle="list" href="#list-ci" role="tab" aria-controls="ci">Color Indexing</a>
+    <a class="list-group-item list-group-item-action" id="list-cf-list" data-toggle="list" href="#list-cf" role="tab" aria-controls="cf">Color Transfer</a>
+  </div>
+</div>
+<div class="col-sm-7 bg-light">
+  <div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade show active" id="list-doc" role="tabpanel" aria-labelledby="list-doc-list">
+        <a href="pre-print.pdf" class="btn btn-sq btn-primary">
+                <i class="fa fa-file-text fa-5x"></i><br/>
+                TPAMI Paper 
+        </a>
+        <a href="supl_review.pdf" class="btn btn-sq btn-primary">
+                <i class="fa fa-file-text fa-5x"></i><br/>
+                TPAMI Suppl.
+        </a>
+    </div>
+    <div class="tab-pane fade" id="list-cc" role="tabpanel" aria-labelledby="list-cc-list">...</div>
+    <div class="tab-pane fade" id="list-ci" role="tabpanel" aria-labelledby="list-ci-list">...</div>
+    <div class="tab-pane fade" id="list-cf" role="tabpanel" aria-labelledby="list-cf-list">...</div>
+  </div>
+</div>
+</div>
+
+<b>Under construction! Informal requests of code, data, explanation may be made via email. :-)</b>
+
+    <div class="row justify-content-sm-center">
+      <div class="col-12">
+        <h4>Publications</h4>
+        <div class="list-group">
+          <button type="button" class="list-group-item list-group-item-action list-group-item-secondary text-left" data-clipboard-text="Color Homography: theory and applications">[1] Graham Finlayson, Han Gong (co-first author), Robert Fisher, "Color Homography: theory and applications", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017</button>
+          <button type="button" class="list-group-item list-group-item-action list-group-item-secondary text-left" data-clipboard-text="Recoding Color Transfer as a Color Homography">[2] Han Gong, Graham Finlayson, Robert Fisher, "Recoding Color Transfer as a Color Homography", British Machine Vision Conference (BMVC), 2016</button>
+          <button type="button" class="list-group-item list-group-item-action list-group-item-secondary text-left" data-clipboard-text="Color Homography Color Correction">[3] Graham Finlayson, Han Gong, Robert Fisher, "Color Homography Color Correction", Color and Image Conference (CIC), 2016</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="row mt-4 justify-content-sm-center">
+      <div class="col-12">
+        <h4>Acknowledgements</h4>
+This research has received funding from the EPSRC Grant EP/M001768/1. We acknowledge Prof. Roberto Cipolla (University of Cambridge) and Prof. Mark Drew (Simon Fraser University) for their useful discussion on this work. We also acknowledge all reviewers' constructive feedback.
+      </div>
+    </div>
+</div>
+
+    <footer class="bg-dark text-light p-3"> &copy; 2015-2018 Han Gong, University of East Anglia</footer>
+</body>
+
+<script>
+// set up clipboard
+clipboard = new Clipboard('.list-group-item-action');
+clipboard.on('success', function(e) {
+    alert("copied!");
+    e.clearSelection();
+});
+</script>
+
+</html>

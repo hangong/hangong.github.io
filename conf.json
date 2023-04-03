@@ -1,0 +1,228 @@
+{
+    "cvmp2020": {
+        "title":"Constant Velocity Constraints for Self-Supervised Monocular Depth Estimation",
+        "year":2020,
+        "venue":"ACM SIGGRAPH European Conference on Visual Media Production (CVMP)",
+        "authors":["Hang Zhou", "David Greenwood", "Sarah Taylor", "Han Gong"],
+        "icon":"cvmp2020.jpg",
+        "res": {
+            "PDF":"https://dl.acm.org/doi/pdf/10.1145/3429341.3429355",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        }
+    },
+
+    "cic2020": {
+        "title":"Simple Primary Colour Editing for Consumer Product Images",
+        "year":2020,
+        "venue":"Color and Imaging Conference (CIC)",
+        "authors":["Han Gong","Luwen Yu","Stephen Westland"],
+        "icon":"cic2020.jpg",
+        "res": {
+            "PDF":"https://arxiv.org/abs/2006.03743",
+            "Code":"https://github.com/hangong/prod_recolor",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        }
+    },
+
+    "bmvc2019": {
+        "title":"Convolutional Mean: A Simple Convolutional Neural Network for Illuminant Estimation",
+        "year":2019,
+        "venue":"British Machine Vision Conference (BMVC)",
+        "authors":["Han Gong"],
+        "icon":"bmvc2019.jpg",
+        "res": {
+            "PDF":"0216-paper.pdf",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+
+    "cciw2019": {
+        "title":"Using the Monge-Kantorovitch Transform in Chromagenic Color Constancy for Pathophysiology",
+        "year":2019,
+        "venue":"Computational Color Imaging Workshop (CCIW)",
+        "authors":[ "Ghalia Hemrit", "Futa Matsushita", "Mihiro Uchida", "Javier Vazquez-Corral", "Han Gong", "Norimichi Tsumura", "Graham D. Finlayson" ],
+        "icon":"cciw19.jpg",
+        "res": {
+            "PDF":"https://link.springer.com/book/10.1007/978-3-030-13940-7",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "cic2018": {
+        "title":"Using a Simple Colour Pre-Filter to Make Cameras more Colorimetric",
+        "year":2018,
+        "venue":"Color and Imaging Conference (CIC)",
+        "authors":[ "Graham Finlayson", "Yuteng Zhu (co-first author)", "Han Gong" ],
+        "icon":"cic18.jpg",
+        "res": {
+            "PDF":"https://uea.library.ingentaconnect.com/content/ist/cic/2018/00002018/00000001/art00031",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":"<a href=\"cic18_award.jpg\">Best Paper</a>"
+    },
+    "aic_2017_2": {
+        "title":"Root-Polynomial Color Homography Color Correction",
+        "year":2017,
+        "venue":"International Colour Association Congress (AIC)",
+        "authors":[ "Han Gong", "Graham Finlayson" ],
+        "icon":"cc.jpg",
+        "res": {
+            "PDF":"https://ueaeprints.uea.ac.uk/65097/4/final.pdf",
+            "Code":"https://github.com/hangong/ch",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+
+    "aic_2017_1": {
+        "title":"Colour Correction Toolbox",
+        "year":2017,
+        "venue":"International Colour Association Congress (AIC)",
+        "authors":[ "Fufu Fang", "Han Gong", "Michal Mackiewicz",  "Graham Finlayson" ],
+        "icon":"cc.jpg",
+        "res": {
+            "PDF":"https://ueaeprints.uea.ac.uk/65098/1/Colour_Correction_Toolbox.pdf",
+            "Code":"https://github.com/fangfufu/Colour_Correction_Toolbox",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "bmvc2017": {
+        "title":"Concise Radiometric Calibration Using The Power of Ranking",
+        "year":2017,
+        "venue":"British Machine Vision Conference (BMVC)",
+        "authors":[ "Han Gong", "Graham Finlayson (co-first author)", "Maryam M. Darrodi" ],
+        "icon":"bmvc2017.jpg",
+        "res": {
+            "PDF":"https://arxiv.org/abs/1707.08943",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "bmvc2016": {
+        "title":"Recoding Color Transfer as a Color Homography",
+        "year":2016,
+        "venue":"British Machine Vision Conference (BMVC)",
+        "authors":[ "Han Gong", "Graham Finlayson", "Robert Fisher" ],
+        "icon":"bmvc2016.jpg",
+        "res": {
+            "PDF":"https://www.bmva.org/bmvc/2016/papers/paper017/paper017.pdf",
+            "Code":"https://github.com/hangong/h3d-cf/blob/master/cf_2D_H.m",
+            "Data":"projects/recoding/data.zip",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "cic2016": {
+        "title":"Color Homography Color Correction",
+        "year":2016,
+        "venue":"Color and Imaging Conference (CIC)",
+        "authors":[ "Graham Finlayson", "Han Gong", "Robert Fisher" ],
+        "icon":"cc.jpg",
+        "res": {
+            "PDF":"http://arxiv.org/abs/1607.05947",
+            "Code":"",
+            "Data":"projects/color_homography/Data.zip",
+            "Vid":"",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "cic15": {
+        "title":"Interactive Illumination Invariance",
+        "year":2015,
+        "venue":"Color and Imaging Conference (CIC)",
+        "authors":[ "Han Gong", "Graham Finlayson" ],
+        "icon":"cic15.jpg",
+        "res": {
+            "PDF":"projects/ill_invariance/cic15.pdf",
+            "Code":"",
+            "Data":"",
+            "Vid":"projects/ill_invariance/out.avi",
+            "Sup":"",
+            "Web":""
+        },
+        "note":""
+    },
+    "uccv14": {
+        "title":"Interactive Shadow Editing from Single Images",
+        "year":2014,
+        "venue":"Asian Conference on Computer Vision (ACCV) Workshop",
+        "authors":[ "Han Gong", "Darren Cosker" ],
+        "icon":"uccv14.jpg",
+        "res": {
+            "PDF":"http://cs.bath.ac.uk/hg299/projects/shadowediting/uccv_final.pdf",
+            "Code":"http://cs.bath.ac.uk/hg299/projects/shadowediting/cast.zip",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":"http://cs.bath.ac.uk/hg299/projects/shadowediting/"
+        },
+        "note":""
+    },
+    "bmvc14": {
+        "title":"Interactive Shadow Removal and Ground Truth for Variable Scene Categories",
+        "year":2014,
+        "venue":"British Machine Vision Conference (BMVC)",
+        "authors":[ "Han Gong", "Darren Cosker" ],
+        "icon":"bmvc14.jpg",
+        "res": {
+            "PDF":"http://cs.bath.ac.uk/hg299/projects/shadowremoval_bmvc/bmvc_camera_compressed.pdf",
+            "Code":"http://cs.bath.ac.uk/hg299/projects/shadowremoval_bmvc/release_main.zip",
+            "Data":"http://cs.bath.ac.uk/hg299/shadow_eval/",
+            "Vid":"",
+            "Sup":"",
+            "Web":"http://cs.bath.ac.uk/hg299/projects/shadowremoval_bmvc/"
+        },
+        "note":"<a href=\"http://cs.bath.ac.uk/hg299/projects/shadowremoval_bmvc/bmvc_award.jpg\">Best Student Paper</a>"
+    },
+    "icme13": {
+        "title":"User-Aided Single Image Shadow Removal",
+        "year":2013,
+        "venue":"International Conference on Multimedia and Expo (ICME)",
+        "authors":[ "Han Gong", "Darren Cosker", "Chuan Li", "Matthew Brown" ],
+        "icon":"icme13.jpg",
+        "res": {
+            "PDF":"http://cs.bath.ac.uk/hg299/projects/shadowremoval/icme2013_preprint.pdf",
+            "Code":"",
+            "Data":"",
+            "Vid":"",
+            "Sup":"",
+            "Web":"http://cs.bath.ac.uk/hg299/projects/shadowremoval/"
+        },
+        "note":""
+    }
+}
